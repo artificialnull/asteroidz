@@ -1,0 +1,5 @@
+You are commanding a spaceship in an asteroid belt.
+Shoot the asteroids for points, or avoid them for nothing.
+Collisions lower your damage capacity; Don't die.
+Red hearts will repair your ship if you collide.
+Good luck.

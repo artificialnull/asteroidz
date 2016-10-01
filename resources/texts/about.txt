@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asteroidz
+
+Code:
+{0}
+
+Artwork:
+{0}
+
+Sound:
+Menu: Jamie Nord (dft.ba/-jnord)
+Main: Ethan Pesikoff
+Effects: {0}
+
+January
+2015
+
+Thanks for playing

@@ -1,0 +1,6 @@
+quit game|ESC
+move up|UP KEY
+move down|DOWN KEY
+shoot|ENTER
+pause|P
+go back|BACKSPACE
